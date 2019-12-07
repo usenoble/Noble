@@ -2,8 +2,8 @@ tooltipster-fall,.tooltipster-grow.tooltipster-show{-webkit-transition-timing-fu
 
 .tooltipster-sidetip.tooltipster-borderless .tooltipster-box {
     border: none;
-    background: #1b1b1b;
-    background: rgba(0, 0, 0, 1)
+    background: #ffffff;
+    background: rgba(255, 255, 255, 1)
 }
 .tooltipster-sidetip.tooltipster-borderless.tooltipster-bottom .tooltipster-box {
     margin-top: 8px
